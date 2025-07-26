@@ -13,48 +13,44 @@
 
 ## 🛠️ Tecnologias e Ferramentas que utilizo:
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
-</p>
+<div align="center" style="display: flex; justify-content: space-between; max-width: 600px; margin: 0 auto;">
+  <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" width="40" />
+  <img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" width="40" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" width="40" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" />
+</div>
 
 ---
 
 ## 📊 GitHub Status:
 
-[![Meu GitHub status](https://github-readme-stats.vercel.app/api?username=Axtes&show_icons=true&theme=radical)](https://github.com/Axtes)
-
----
+[![Meu GitHub status](https://github-readme-stats.vercel.app/api?username=Axtes&show_icons=true&theme=dark)](https://github.com/Axtes)
 
 ---
 
 ## 📫 Conecte-se comigo!
 
-<p align="left">
-  <a href="mailto:david.sobral.profissional645@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+<p align="left" style="display: flex; flex-direction: column; gap: 10px; max-width: 300px;">
+
+  <a href="mailto:david.sobral.profissional645@gmail.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="30" />
+    <span>David.Sobral.Profissional645@Gmail.com</span>
   </a>
-  <a href="https://www.linkedin.com/in/dev-dav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+  <a href="https://www.linkedin.com/in/dev-dav/" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
+    <span>David Santos</span>
   </a>
-  <a href="https://github.com/Axtes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+
+  <a href="https://github.com/Axtes" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" />
+    <span>Axtes</span>
   </a>
+
 </p>
