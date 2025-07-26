@@ -43,19 +43,18 @@
 
 ---
 
+---
+
 ## 📫 Conecte-se comigo!
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" alt="Gmail"/></td>
-    <td><a href="mailto:david.sobral.profissional645@gmail.com" target="_blank">david.sobral.profissional645@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="LinkedIn"/></td>
-    <td><a href="https://linkedin.com/in/dev-dav" target="_blank">David Santos</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub"/></td>
-    <td><a href="https://github.com/Axtes" target="_blank">Axtes</a></td>
-  </tr>
-</table>
+<p align="left">
+  <a href="mailto:david.sobral.profissional645@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dev-dav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Axtes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
