@@ -36,21 +36,17 @@
 
 ## 📫 Conecte-se comigo!
 
-<p align="left" style="display: flex; flex-direction: column; gap: 10px; max-width: 300px;">
-
-  <a href="mailto:david.sobral.profissional645@gmail.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="30" />
-    <span>David.Sobral.Profissional645@Gmail.com</span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/dev-dav/" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
-    <span>David Santos</span>
-  </a>
-
-  <a href="https://github.com/Axtes" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" />
-    <span>Axtes</span>
-  </a>
-
-</p>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="30" alt="Gmail Icon" /></td>
+    <td><a href="mailto:david.sobral.profissional645@gmail.com">David.Sobral.Profissional645@Gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn Icon" /></td>
+    <td><a href="https://www.linkedin.com/in/dev-dav/" target="_blank">David Santos</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub Icon" /></td>
+    <td><a href="https://github.com/Axtes" target="_blank">Axtes</a></td>
+  </tr>
+</table>
