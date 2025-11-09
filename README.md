@@ -9,7 +9,7 @@
 - 🎓 Estudante de **Ciência da Computação**
 - ☕ Focado em se tornar um **Desenvolvedor Java Back-End**
 - 🌎 Moro no **Brasil**
-- 💼 Aberto a oportunidades como **Desenvolvedor Web Back-End** e áreas correlatas na **Tecnologia**
+- 💼 Aberto a oportunidades como **Desenvolvedor Web Back-End** e áreas semelhantes na **Tecnologia**
 
 ## 🛠️ Tecnologias e Ferramentas que utilizo:
 
